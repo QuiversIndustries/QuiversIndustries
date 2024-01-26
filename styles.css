@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+div {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      } 
+  }
+  body, html
+{
+    background-color: rgb(31, 32, 32);
+    }
+
+h1 {
+    font-size: 2.8rem;
+      color: rgb(251, 168, 2);
+      text-align: center;
+      font-family: Helvetica;
+      text-transform: uppercase;
+      font-weight: 600;
+      padding-top: 15px;
+    }
+    p {
+        color: rgb(253, 251, 251);
+        font-family: Helvetica;
+        text-transform: uppercase;
+        text-align: center;
+        Padding-bottom: 45px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 330px;
+  }
+</style>
+</head>
+<body>
+</body>
+</html>
